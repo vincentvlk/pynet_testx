@@ -1,3 +1,3 @@
 # pynet_testx
 
-Pridal som nejaky comment.
+Pridal som nejaky comment tuna.
